@@ -1,5 +1,5 @@
 int dataTypes(string type) {
-	// Write your code here
+	
 	cin>>type;
 	if(type==Integer) 
 		cout<<4;

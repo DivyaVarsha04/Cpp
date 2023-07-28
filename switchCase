@@ -1,5 +1,5 @@
 double areaSwitchCase(int ch, vector<double> a) {
-	// Write your code here
+	
 	double area=0.0;
         switch (ch) {
         case 1:
